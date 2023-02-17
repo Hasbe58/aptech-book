@@ -1,6 +1,6 @@
 # Aptech Books and Slides
 
-Book and slides for aptech coures in CPISM, DISM and ADSE.
+Book for aptech coures.
 
 ## Description
 
